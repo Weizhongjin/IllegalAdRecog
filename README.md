@@ -1,0 +1,2 @@
+# IllegalAdRecog
+illegal advertisement recognition
